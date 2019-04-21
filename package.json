@@ -1,0 +1,25 @@
+{
+  "name": "jupyterlab-geo-highlight",
+  "version": "0.1.1",
+  "description": "Jupyterlab extension to highlight Geo command language syntax",
+  "author": "Adrax",
+  "main": "lib/plugin.js",
+  "keywords": [
+    "jupyter",
+    "jupyterlab",
+    "jupyterlab-extension"
+  ],
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stardah/geo-extension.git"
+  },
+  "jupyterlab": {
+    "extension": true
+  },
+  "scripts": {},
+  "dependencies": {
+    "@jupyterlab/codemirror": "^0.19.1"
+  },
+  "devDependencies": {}
+}
