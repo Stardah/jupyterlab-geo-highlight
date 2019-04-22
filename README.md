@@ -1,6 +1,6 @@
-# jupyterlab-stata-highlight
+# jupyterlab-geo-highlight
 
-Jupyterlab extension to highlight Stata syntax
+Jupyterlab extension для подсветки синтаксиса языка командной строки Geo
 
 
 ## Prerequisites
@@ -12,14 +12,5 @@ Jupyterlab extension to highlight Stata syntax
 To install using pip:
 
 ```bash
-jupyter labextension install jupyterlab-stata-highlight
-```
-
-## Development
-
-For a development install (requires npm version 4 or later), do the following in the repository directory:
-
-```bash
-npm install
-jupyter labextension link .
+jupyter labextension install jupyterlab-geo-highlight
 ```
